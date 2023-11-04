@@ -36,7 +36,7 @@ Siga as etapas abaixo para executar o projeto em sua máquina:
 2. Navegue até o diretório do projeto:
 
    ```sh
-   cd seu-projeto
+   cd node-com-fastify
    ```
 
 3. Instale as dependências:
@@ -57,10 +57,11 @@ O servidor estará em execução em `http://localhost:3000`.
 
 Aqui estão alguns exemplos de como usar a API do projeto:
 
-- [Exemplo de criação de um novo registro](/img/img1.JPG)
-- [Exemplo de leitura de registros](/img/img2.JPG)
-- [Exemplo de atualização de um registro](/img/img3.JPG)
-- [Exemplo de exclusão de um registro](/img/img4.JPG)
+![Criação de um novo registro](/img/img1.JPG)
+![Leitura de registros](/img/img2.JPG)
+![Atualização de um registro](/img/img3.JPG)
+![Exclusão de um registro](/img/img4.JPG)
+
 
 ## Contribuição
 
