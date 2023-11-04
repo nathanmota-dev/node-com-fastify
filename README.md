@@ -57,9 +57,16 @@ O servidor estará em execução em `http://localhost:3000`.
 
 Aqui estão alguns exemplos de como usar a API do projeto:
 
+- [Criação de um novo registro]
 ![Criação de um novo registro](/img/img1.JPG)
+
+- [Leitura de registros]
 ![Leitura de registros](/img/img2.JPG)
+
+- [Atualização de um registro]
 ![Atualização de um registro](/img/img3.JPG)
+
+- [Exclusão de um registro]
 ![Exclusão de um registro](/img/img4.JPG)
 
 
